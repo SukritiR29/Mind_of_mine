@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { HomeIcon } from "@homeicons/react/solid"
+import { HomeIcon } from "@heroicons/react/solid";
 import SidebarLink from '../components/SidebarLink'
 import {
   HashtagIcon,
