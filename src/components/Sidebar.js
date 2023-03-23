@@ -32,8 +32,8 @@ function Sidebar() {
     <button className="hidden xl:inline ml-auto bg-[#1d9bf0] text-white rounded-full w-56 h-[50px] mt-5 font-bold text-lg hover:bg-[#1a8cd8]">
       Express</button>
       <div className="text-[#d9d9d9] flex items-center justify-center hoverAnimation xl:ml-20 xl:-mr-5 mt-5">
-        <img src="icons8-user-100.png" alt="" 
-        className="h-9 w-9 rounded-full xl:mr-2.5 " />
+        <img src="dp.png" alt="" 
+        className="h-10 w-10 rounded-full xl:mr-2.5 " />
         <div className="hidden xl:inline leading-5">
           <h4 className="font-bold">Sukriti Raora</h4>
           <p className="text-[#6e767d]">@sukritirajora29</p>

@@ -1,5 +1,6 @@
 import React from 'react'
 import { SparklesIcon } from '@heroicons/react/outline'
+import Input from '../components/Input'
 
 function feed() {
   return (
@@ -10,7 +11,11 @@ function feed() {
           <SparklesIcon className="h-5 text-white" />
         </div>
       </div>
+
+      <Input/>
     </div>
+
+    
   )
 }
 
